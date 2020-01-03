@@ -125,8 +125,9 @@ End of output
 
 ## Authors
 
-* **Michael Roush** - *bubble sort/ selection sort*
-* **Nicolas Harris** - *selection sort/ insertion sort*
+* **Michael Roush** - *bubble sort*
+* **Nicolas Harris** - *selection sort*
+* **Edward Canales** - *insertion sort*
 
 ## License
 
